@@ -1,0 +1,35 @@
+.header-container {
+
+    float: right;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.header a {
+
+    color:  rgba(0,0,0,.87);
+    text-decoration: none;
+    font: 13px arial,sans-serif;
+    padding: 10px;
+}
+
+.login {
+
+    background: #1a73e8;
+    border: 1px solid transparent;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .25px;
+    line-height: 16px;
+    margin-right: 8px;
+    min-width: 96px;
+    padding: 9px 23px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #fff;
+
+}
