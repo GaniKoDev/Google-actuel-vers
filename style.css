@@ -36,9 +36,41 @@
 
 #logo {
 
-    /* background-color: red; */
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+}
+
+
+.search {
+
+
+    
     position: absolute;
     top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    
+    
+
+}
+
+#search-inside {
+
+    width: 500px;
+    border-radius: 30px;
+    height: 30px;
+    background-color: transparent;
+    border-color: none;
+    border: 1px solid #dfe1e5;
+
+}
+
+.btn{
+
+    position: absolute;
+    top: 58%;
     left: 50%;
     transform: translate(-50% ,-50%);
 }
