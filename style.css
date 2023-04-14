@@ -74,3 +74,48 @@
     left: 50%;
     transform: translate(-50% ,-50%);
 }
+
+.btns {
+
+    margin: 11px 4px;
+    padding: 0px 16px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none
+    
+}
+
+#turkiye {
+    position: fixed;
+    float: left;
+    left: 3;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: black;
+    
+
+ }
+
+ .footer{
+
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(87, 84, 84);
+   color: white;
+   text-align: center;
+
+}
